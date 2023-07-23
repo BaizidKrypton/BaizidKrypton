@@ -1,8 +1,8 @@
 ## Hi, I'm [Baizid Biswas]👋
 
-<a href="https://www.linkedin.com/in/mrsohelcse/">
-  <img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
-</a>
+#<a href="https://www.linkedin.com/in/mrsohelcse/">
+  #<img align="left" alt="Sohel's Linkdein" width="22px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" />
+#</a>
 <a href="https://github.com/mr-sohel">
   <img align="left" alt="Sohel's Github" width="22px" src="https://cdn-icons-png.flaticon.com/512/270/270798.png" />
 </a>
